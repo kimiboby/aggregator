@@ -1,10 +1,10 @@
 {
     "domains": [
         {
-            "domain": "",
+            "domain": "ihax.cf",
             "param": {
-                "email": "",
-                "passwd": "",
+                "email": "1206871386@ihax.cf",
+                "passwd": "11667788",
                 "login": "/auth/login",
                 "checkin": "/user/checkin"
             }
